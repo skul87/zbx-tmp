@@ -1,5 +1,6 @@
 # zbx-tmp
-conf - define zabbix items
+Directories:<br>
+conf - define zabbix items<br>
 scripts - scripts for zabbix items
 
 Supported metrics:
